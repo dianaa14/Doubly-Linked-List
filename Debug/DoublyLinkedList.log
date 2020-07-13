@@ -1,0 +1,3 @@
+﻿  DoublyLinkedList.cpp
+C:\Users\Diana\source\repos\DoublyLinkedList\DoublyLinkedList\DoublyLinkedList.cpp(360): warning C4715: 'List::operator[]': not all control paths return a value
+  DoublyLinkedList.vcxproj -> C:\Users\Diana\source\repos\DoublyLinkedList\Debug\DoublyLinkedList.exe
